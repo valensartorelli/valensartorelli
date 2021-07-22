@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/valensartorelli/" rel="nofollow">
   <img align="left" alt="Valentina's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
 </a>
+<br><br>
 
 ## ✨ I worked many years with HTML5 and CSS3 + Bootstrap
 
