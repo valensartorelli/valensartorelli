@@ -5,7 +5,7 @@
 
 
 <a href="https://www.linkedin.com/in/valensartorelli/" rel="nofollow" target="_blank">
-  <img align="left" alt="Valentina's LinkedIN" width="22px" src="https://www.svgrepo.com/svg/494209/linkedin" style="max-width:100%;">
+  Check my LinkedIn profile :)
 </a>
 <br><br>
 
