@@ -3,11 +3,9 @@
 
 ### ✨ I'm a Front-end developer and aspiring Full Stack Developer
 
-<a href="https://twitter.com/valensartorelli" rel="nofollow" target="_blank">
-  <img align="left" alt="Valentina Sartorelli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;">
-</a>
+
 <a href="https://www.linkedin.com/in/valensartorelli/" rel="nofollow" target="_blank">
-  <img align="left" alt="Valentina's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
+  <img align="left" alt="Valentina's LinkedIN" width="22px" src="https://www.svgrepo.com/svg/494209/linkedin" style="max-width:100%;">
 </a>
 <br><br>
 
